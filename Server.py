@@ -37,7 +37,3 @@ class Server:
 
     def run(self):
         uvicorn.run(self.app, host="localhost", port=8383, log_level="info")
-
-
-server = Server()
-server.run()

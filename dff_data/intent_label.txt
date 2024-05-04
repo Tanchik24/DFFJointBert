@@ -1,12 +1,7 @@
 UNK
-tell_about_bot
-chitchat_ai_news
 action_cancle
-mentor_query
-mentor_query_question
-mentor_list
-user_info_provision
-qa_framework_info
-chitchat_career_advice
 training_session
-mentor_query_code
+mentor_query
+user_info_provision
+tell_about_bot
+qa_framework_info
